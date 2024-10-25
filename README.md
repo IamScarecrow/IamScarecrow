@@ -74,7 +74,7 @@ Skills:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IamScarecrow)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamScarecrow)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamScarecrow)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamScarecrow&show_icons=true&count_private=true)  
 
