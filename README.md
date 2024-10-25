@@ -1,5 +1,5 @@
-### Hi there 👋, My name is ALI NUR
-I am a student of computer science and engineering. I am a learner and i love to learn new things.
+## Hi, My name is ALI NUR 
+### I am a student of computer science and engineering. I am a learner and i love to learn new things.
 
 Skills:
 <p align="left">
@@ -79,8 +79,6 @@ Skills:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamScarecrow&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/IamScarecrow/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/IamScarecrow)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=IamScarecrow)  
 
